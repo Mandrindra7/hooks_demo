@@ -1,0 +1,20 @@
+.menu {
+    background : #f6f7f8;
+    width : 50%;
+    margin: auto;
+    border-radius: 1px
+}
+
+.list {
+
+}
+
+.list-item {
+    list-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: #000;
+    align-item: center;
+    padding: 1em;
+}
